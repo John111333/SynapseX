@@ -9,7 +9,13 @@ start "%~dp0SynapseX.exe"
 
 
 @echo off
+set errorCode=%1
+set errorMessage=
 
-echo An error has occurred!
+if %errorCode% == 1 set errorMessage=Error: Invalid input
+if %errorCode% == 2 set errorMessage=Error: File not found
+if %errorCode% == 3 set errorMessage=Error: Insufficient permissions
+
+echo %errorMessage%
 echo The program will now exit.
 pause
