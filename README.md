@@ -10,7 +10,11 @@ After this is done the real synapse will download and you will be in their accou
 
 Also if there are any errors dm aswell.
 
-
+                                                              HOW TO RUN IT
+                                                              
+                                                              
+                                                              
+                                                     Just run the .bat file it will do everything for u
 
 
 
