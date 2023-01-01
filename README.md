@@ -10,7 +10,7 @@ After this is done the real synapse will download and you will be in their accou
 
 Also if there are any errors dm aswell.
 
-Dont Fall for this scam. If it is Given out by yukiii#5084 HIS ID 756903887767732354 HE is trynna scam you out of a couple bucks. Only real Person selling this is me, KiritoIsMid#0001 and John113#0001 His Id 1012548028596486164
+
                                                          
                                                           
                                                                       HOW TO RUN IT
